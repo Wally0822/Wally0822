@@ -2,5 +2,10 @@
 
 Welcome to my GitHub profile!
 
-<!--
-**Wally0822/Wally0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Welcome to My GitHub Profile! 🚀
+
+## 🛠️ Skills
+- Programming Languages: Python, JavaScript, C++
+- Frameworks: React, Node.js
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
