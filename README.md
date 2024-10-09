@@ -9,15 +9,11 @@ Hi! I'm excited to have you here. Below you’ll find a little more about me, my
 ---
 
 ### 🛠️ Skills
-- **Programming Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Node.js
+- **Programming Languages**: C#, PHP
+- **Frameworks**: Node.js
+- **Web Technologies**: HTML, CSS
+- **Databases**: SQL, MySQL, MongoDB, Redis
 - **Tools**: Git, Docker, VSCode
-
----
-
-### 🌟 Featured Projects
-- [**Project 1**](https://github.com/yourusername/project1): An amazing project that does wonderful things.
-- [**Project 2**](https://github.com/yourusername/project2): Another great project with cool features.
 
 ---
 
@@ -28,5 +24,5 @@ Hi! I'm excited to have you here. Below you’ll find a little more about me, my
 ---
 
 ### 📫 Contact Me
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Email**: 1506325470piao@gmail.com
+- **Blog**: [Wally's Blog](https://wallyyoucandoit.tistory.com/)
