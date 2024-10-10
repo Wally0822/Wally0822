@@ -31,5 +31,4 @@ Hi! I'm excited to have you here. Below you’ll find a little more about me, my
 ---
 
 ### 📫 Contact Me
-- **Email**: [Wally's Email](1506325470piao@gmail.com)
 - **Blog**: [Wally's Blog](https://wallyyoucandoit.tistory.com/)
