@@ -1,7 +1,5 @@
-<h1 align="center">👋 Welcome to My GitHub! | 欢迎访问 | 방문해주셔서 감사합니다!</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi,+I'm+Wally!;Backend+%2B+Game+Developer;Passionate+about+code,+growth,+and+collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Wally!;👋+Welcome+to+My+GitHub!+%7C+欢迎访问+%7C+방문해주셔서+감사합니다!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +26,7 @@ Always learning, always improving.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wally0822&show_icons=true&theme=radical" alt="Wally's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wally0822&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -49,5 +47,5 @@ Always learning, always improving.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC371,100:FF5F6D&height=100&section=footer&text=Wally's%20World&fontSize=28&fontColor=ffffff" />
 </p>
