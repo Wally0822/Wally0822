@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Wally!;👋+Welcome+to+My+GitHub!+%7C+欢迎访问+%7C+방문해주셔서+감사합니다!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Wally!;👋+Welcome+to+My+GitHub!+%7C+欢迎访问+%7C+방문해주셔서+감사합니다!" alt="Typing Intro" />
 </p>
 
 ---
@@ -47,5 +47,5 @@ Always learning, always improving.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC371,100:FF5F6D&height=100&section=footer&text=Wally's%20World&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F6C667&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=2D2D2D" />
 </p>
