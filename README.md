@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub! | 欢迎访问 | 방문해주셔서 감사합니다!</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wally's%20GitHub&fontSize=40&fontAlign=70&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+Wally's+GitHub!;게임과+백엔드를+사랑하는+개발자;꾸준히+학습하고+성장하는+중입니다" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,8 +46,3 @@ I’m currently working on Unity game servers, managing APIs, and optimizing dat
 - 📝 **Blog**: [Wally's Blog on Tistory](https://wallyyoucandoit.tistory.com/)
 - 💬 Feel free to reach out for collaboration, questions, or just to say hi!
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
-</p>
