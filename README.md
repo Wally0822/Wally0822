@@ -6,9 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Wally** — a passionate developer who enjoys building games, web apps, and solving complex backend challenges.  
-I’m currently working on Unity game servers, managing APIs, and optimizing databases.  
-Always learning, always improving.
+Hi, I'm Wally — a passionate and humble developer eager to grow through new challenges.
+Always learning, always building, always improving.
 
 ---
 
