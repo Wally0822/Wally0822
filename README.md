@@ -23,9 +23,9 @@ Always learning, always building, always improving.
 ---
 
 
-## 🐍 Snake Animation
+## 🐈 My GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wally0822/Wally0822/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wally0822&show_icons=true&theme=radical&hide_border=true&icon_color=F97316" alt="Wally's Stats" />
 </p>
 
 
