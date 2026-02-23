@@ -23,10 +23,11 @@ Always learning, always building, always improving.
 ---
 
 
-## 📈 Contribution Graph
+## 🏗️ My 3D Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wally0822&theme=radical&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Wally0822&theme=radical" alt="3D Contribution Graph" />
 </p>
+
 
 ---
 
