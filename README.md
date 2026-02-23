@@ -23,10 +23,9 @@ Always learning, always building, always improving.
 ---
 
 
-## 🔥🔥 Most Used Languages
-
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=Wally0822&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wally0822&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
