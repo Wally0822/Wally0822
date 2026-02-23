@@ -23,9 +23,20 @@ Always learning, always building, always improving.
 ---
 
 
-## 🐈 My GitHub Stats
+## 🐈 My Coding Companion
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力を&rid=giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6M3Ryc2ZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaOlfIu4/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Steve0311/Steve0311/main/assets/cat.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/ArielRin/ArielRin/master/assets/dog.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/ArielRin/ArielRin/master/assets/duck.gif" width="50" />
+</p>
+
+<p align="center">
+  <i>"Wally is coding hard with his friends!"</i>
 </p>
 
 
