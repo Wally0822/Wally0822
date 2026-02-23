@@ -23,9 +23,9 @@ Always learning, always building, always improving.
 ---
 
 
-## 🏗️ My 3D Contribution
+## 🐍 Snake Animation
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Wally0822&theme=radical" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Wally0822/Wally0822/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 
