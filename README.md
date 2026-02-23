@@ -25,7 +25,7 @@ Always learning, always building, always improving.
 
 ## 🐈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wally0822&show_icons=true&theme=radical&hide_border=true&icon_color=F97316" alt="Wally's Stats" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力を&rid=giphy.gif" width="300" />
 </p>
 
 
